@@ -43,7 +43,7 @@ What kind of change does this Pull Request introduce?
 
 ```
 git clone git@github.com:ks6088ts-labs/sandbox-rust.git
-cd template-go
+cd sandbox-rust
 ```
 
 - Test the code
